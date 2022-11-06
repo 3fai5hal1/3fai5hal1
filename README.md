@@ -3,15 +3,11 @@
 #### A passionate programmer from Bangladesh
 ![I am Student of Computer Science and Engineering](https://media-exp1.licdn.com/dms/image/D5616AQGL_b7IMoprpA/profile-displaybackgroundimage-shrink_350_1400/0/1664529558910?e=1672876800&v=beta&t=KAP4Iyie5okPgIJtJ-EfBoGQ1IhUDodyX-9HzYbqOeE)
 
-I made project just for fun.
 
 Skills: C / C++
-
-- 🔭 I’m currently working on Github 
-- 🌱 I’m currently learning C++ 
-- 👯 I’m looking to collaborate on Github 
+ 
+- 🌱 I’m currently learning C++  
 - 💬 Ask me about C++ 
-- 📫 How to reach me: 3fai5hal1 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/3fai5hal1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullahfaishal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/3fai5hal1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/3fai5hal1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/3fai5hal1)  
