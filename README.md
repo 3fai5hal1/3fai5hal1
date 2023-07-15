@@ -4,7 +4,6 @@
   <img src="https://media-exp1.licdn.com/dms/image/D5616AQGL_b7IMoprpA/profile-displaybackgroundimage-shrink_350_1400/0/1664529558910?e=1672876800&v=beta&t=KAP4Iyie5okPgIJtJ-EfBoGQ1IhUDodyX-9HzYbqOeE" alt="Profile Background" width="100%">
   <p>
     <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> •
-    <a href="https://twitter.com/your-profile">Twitter</a> •
     <a href="https://your-website.com">Website</a>
   </p>
 </div>
