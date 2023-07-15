@@ -4,7 +4,7 @@
 ![I am Student of Computer Science and Engineering](https://media-exp1.licdn.com/dms/image/D5616AQGL_b7IMoprpA/profile-displaybackgroundimage-shrink_350_1400/0/1664529558910?e=1672876800&v=beta&t=KAP4Iyie5okPgIJtJ-EfBoGQ1IhUDodyX-9HzYbqOeE)
 
 
-Skills: C / C++
+Skills:C++,Java
  
 - 🌱 I’m currently learning C++  
 - 💬 Ask me about C++  
