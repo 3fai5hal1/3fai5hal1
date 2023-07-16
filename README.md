@@ -2,8 +2,9 @@
   <h1>Hi there! 👋 I'm Abdullah Faishal</h1>
   <h3>A passionate programmer and student of Computer Science and Engineering</h3>
 
-
-
+<div align="center">
+<h1>About Me</h1>
+<h3></h3>I'm a dedicated and enthusiastic programmer with a strong passion for problem-solving and software development. Currently pursuing my degree in Computer Science and Engineering, I'm constantly expanding my knowledge and skills in programming languages like C++ and Java</h3>
 
 
 
