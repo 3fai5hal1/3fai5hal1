@@ -2,7 +2,7 @@
   <h1>Hi there! 👋 I'm Abdullah Faishal</h1>
   <h3>A passionate programmer and student of Computer Science and Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3fai5hal1&label=Profile%20views&color=0e75b6&style=flat" alt="3fai5hal1" /> </p>
+
 
 
 
@@ -33,6 +33,6 @@
 
 ---
 
-![Profile Views](https://gpvc.arturio.dev/3fai5hal1)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3fai5hal1&label=Profile%20views&color=0e75b6&style=flat" alt="3fai5hal1" /> </p>
 
