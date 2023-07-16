@@ -28,10 +28,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3fai5hal1&" alt="3fai5hal1" /></p>
 
 
----
-
-
----
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3fai5hal1&label=Profile%20views&color=0e75b6&style=flat" alt="3fai5hal1" /> </p>
