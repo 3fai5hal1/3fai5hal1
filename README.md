@@ -60,18 +60,14 @@
 
 ## Featured projects
 - 🚀 [Portfolio](https://github.com/3fai5hal1/Portfolio) — Modern, responsive personal site showcasing projects and contact. Live demo: https://3fai5hal1.github.io/Portfolio/
-- 🧠 [cybersecurity-notes](https://github.com/3fai5hal1/cybersecurity-notes) — 365‑day cybersecurity learning journey: networking, Linux, web security, tools, and write‑ups.
 - ✨ [SharpDesigns](https://github.com/3fai5hal1/SharpDesigns) — C# OOAD examples with UML and classic design patterns (Strategy, Factory, Singleton) for learning and reference.
 - 🎬 [CinemaHallManagement](https://github.com/3fai5hal1/CinemaHallManagement) — Java app to manage screenings, seats, and ticketing; OOP design with JDBC.
-- 🧪 [skills-secure-code-game](https://github.com/3fai5hal1/skills-secure-code-game) — Secure coding practice exercises (fork) for finding and fixing common vulnerabilities.
 
 <!--
 Want visual repo cards? Add lines like:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=Portfolio&theme=tokyonight)](https://github.com/3fai5hal1/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=cybersecurity-notes&theme=tokyonight)](https://github.com/3fai5hal1/cybersecurity-notes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=SharpDesigns&theme=tokyonight)](https://github.com/3fai5hal1/SharpDesigns)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=CinemaHallManagement&theme=tokyonight)](https://github.com/3fai5hal1/CinemaHallManagement)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=skills-secure-code-game&theme=tokyonight)](https://github.com/3fai5hal1/skills-secure-code-game)
 -->
 
 ---
