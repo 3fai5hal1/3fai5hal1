@@ -59,14 +59,19 @@
 ---
 
 ## Featured projects
-- 🚀 [project-name-1](https://github.com/3fai5hal1/project-name-1) — 1–2 line impact statement about what it does and who it’s for.
-- 🧠 [project-name-2](https://github.com/3fai5hal1/project-name-2) — Brief description highlighting problem solved or tech used.
-- 🧩 [project-name-3](https://github.com/3fai5hal1/project-name-3) — Short description; mention performance, scale, or unique approach.
-- 📱 [project-name-4](https://github.com/3fai5hal1/project-name-4) — Optional live link: https://your-live-demo
+- 🚀 [Portfolio](https://github.com/3fai5hal1/Portfolio) — Modern, responsive personal site showcasing projects and contact. Live demo: https://3fai5hal1.github.io/Portfolio/
+- 🧠 [cybersecurity-notes](https://github.com/3fai5hal1/cybersecurity-notes) — 365‑day cybersecurity learning journey: networking, Linux, web security, tools, and write‑ups.
+- ✨ [SharpDesigns](https://github.com/3fai5hal1/SharpDesigns) — C# OOAD examples with UML and classic design patterns (Strategy, Factory, Singleton) for learning and reference.
+- 🎬 [CinemaHallManagement](https://github.com/3fai5hal1/CinemaHallManagement) — Java app to manage screenings, seats, and ticketing; OOP design with JDBC.
+- 🧪 [skills-secure-code-game](https://github.com/3fai5hal1/skills-secure-code-game) — Secure coding practice exercises (fork) for finding and fixing common vulnerabilities.
 
 <!--
 Want visual repo cards? Add lines like:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=project-name-1&theme=tokyonight)](https://github.com/3fai5hal1/project-name-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=Portfolio&theme=tokyonight)](https://github.com/3fai5hal1/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=cybersecurity-notes&theme=tokyonight)](https://github.com/3fai5hal1/cybersecurity-notes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=SharpDesigns&theme=tokyonight)](https://github.com/3fai5hal1/SharpDesigns)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=CinemaHallManagement&theme=tokyonight)](https://github.com/3fai5hal1/CinemaHallManagement)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3fai5hal1&repo=skills-secure-code-game&theme=tokyonight)](https://github.com/3fai5hal1/skills-secure-code-game)
 -->
 
 ---
@@ -91,7 +96,7 @@ Want visual repo cards? Add lines like:
 <p>
   <a href="https://dev.to/3fai5hal1"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://linkedin.com/in/abdullahfaishal"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://codeforces.com/profile/3faishal1"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/3fai5hal1"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"></a>
   <a href="https://instagram.com/3fai5hal1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://fb.com/3fai5hal1"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
